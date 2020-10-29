@@ -1,0 +1,25 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
+h2 {
+    font-family: fantasy;
+    color: antiquewhite;
+}
+body {
+    background-image: url(Untitled.png);
+}
+ol {
+    color: antiquewhite;
+}
+a {
+    color: chartreuse;
+}
